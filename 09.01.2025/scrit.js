@@ -1,5 +1,8 @@
 var a = prompt("a");
 var b = prompt("b");
+if(typeof a == Number){
+  alert("0000")
+}
 var x = parseInt(a);
 var y = parseInt(b);
 
